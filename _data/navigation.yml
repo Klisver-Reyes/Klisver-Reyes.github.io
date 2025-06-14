@@ -19,6 +19,16 @@ main:
 
   - title: "Skills"
     url: /skills/
+
+  - title: "Certifications"
+    url: /certifications/
+
+  - title: "Volunteering"
+    url: /volunteering/ 
+    
+  - title: "CV"
+    url: /files/CV_Klisver_REYES.pdf
+    #url: /cv/
   
   #- title: "Publications"
   #  url: /publications/
@@ -35,16 +45,6 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "Certifications"
-    url: /certifications/
-
-   - title: "Volunteering"
-     url: /volunteering/ 
-    
-  - title: "CV"
-    url: /files/CV_Klisver_REYES.pdf
-    #url: /cv/
-    
   # - title: "CV"
   #   url: /cv-json/
     
