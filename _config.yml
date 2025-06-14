@@ -230,6 +230,12 @@ collections:
   experience:
     output: true
     permalink: /:collection/:path/
+  certifications:
+    output: true
+    permalink: /:collection/:path/
+  volunteering:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -318,6 +324,26 @@ defaults:
   - scope:
       path: ""
       type: education
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+      
+  # _certifications
+  - scope:
+      path: ""
+      type: certifications
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+
+  # _volunteering
+  - scope:
+      path: ""
+      type: volunteering
     values:
       layout: single
       author_profile: true
