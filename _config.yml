@@ -25,7 +25,7 @@ author:
   avatar           : "Foto_likedin.jpg"
   name             : "Klisver Reyes"
   pronouns         : # example: "she/her"  
-  bio              : "Estudiante de maestria"
+  bio              : "Master student"
   location         : "Brest, France"
   employer         : "IMT Atlantique"
   uri              : "https://klisver-reyes.github.io"
@@ -228,6 +228,15 @@ collections:
     output: true
     permalink: /:collection/:path/
   experience:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
+  skills:
     output: true
     permalink: /:collection/:path/
   certifications:
