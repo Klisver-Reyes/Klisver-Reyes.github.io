@@ -5,26 +5,56 @@ type: skills
 permalink: /skills/
 ---
 
-# Skillsxcv
+**Programmation**
+- GitLab, Python, MicroPython, C, C++, Assembleur, Qt, Arduino, RISC-V (Architecture - Notions)
 
--**FPGA**
-  - **Langages de description matérielle (HDL) :** VHDL, Verilog, SystemVerilog
-  - **Outils de développement FPGA :** Vivado, Intel Quartus Prime, ModelSim
-  - **Cartes de développement FPGA :** FPGA Xilinx Zynq-7020, FPGA DE1-SoC
+**Systèmes d’exploitation**
+- Windows (bureautique), Linux (systèmes et développement)
 
--**FPGA**
+**Outils de débogage matériel**
+- Oscilloscope
+- Multimètre
+- Générateur de signaux
+- Analyseur de paramètres
+- Alimentation en courant continu
 
-- **Programming:** GitLab, Python, MicroPython, C, C++, Assembleur, Qt, Arduino, RISC-V (Architecture - Notions)
-- **Operating Systems:** Windows (office use), Linux (systems and development)
-- **Hardware Debugging Tools:** Oscilloscope, multimeter, signal generator, parameter analyzer, DC power supply
-- **Electronic Design & Simulation:** Altium Designer, Cadence (Virtuoso, Layout, OrCAD), Proteus, PSpice
-- **Microcontrollers:** ESP32, ATmega328, JM60
-- **FPGA Development:** VHDL, Verilog, SystemVerilog; Xilinx Zynq-7020, DE1-SoC; Vivado, Quartus Prime, ModelSim, EDA Playground
-- **Embedded Development Environments:** Visual Studio, PyCharm, Jupyter Notebook
-- **Communication Protocols:** SPI, I2C, CAN, RS232
-- **3D Design & CAD:** SolidWorks, AutoCAD
-- **Documentation & Technical Writing:** LaTeX, MS Office
-- **Numerical Computing & Simulation:** MATLAB, Simulink, GNU Octave
-- **Graphic Design:** CorelDRAW, Inkscape
-- **Others:** CodeWarrior, NI LabVIEW, GNU Radio
-- **Project Management:** Scrum, Agile methodologies
+**Conception et simulation électronique**
+- Altium Designer, Cadence (Virtuoso, Layout, OrCAD), Proteus, PSpice
+
+**Microcontrôleurs**
+- ESP32, ATmega328, JM60
+
+**Développement FPGA**
+- Langages HDL : VHDL, Verilog, SystemVerilog
+- Cartes : FPGA Xilinx Zynq-7020, FPGA DE1-SoC
+- Outils : Vivado, Intel Quartus Prime, ModelSim, EDA Playground
+
+**Environnements de développement embarqué**
+- Visual Studio, PyCharm, Jupyter Notebook
+
+**Protocoles de communication**
+- SPI, I2C, CAN, RS232
+
+**Conception 3D & CAO**
+- SolidWorks, AutoCAD
+
+**Documentation & rédaction technique**
+- LaTeX, MS Office
+
+**Calcul numérique & simulation**
+- MATLAB, Simulink, GNU Octave
+
+**Conception graphique**
+- CorelDRAW, Inkscape
+
+**Autres outils**
+- CodeWarrior, NI LabVIEW, GNU Radio
+
+**Gestion de projet**
+- Méthode Scrum, Agile
+
+**Langues**
+- Espagnol (Langue maternelle)
+- Français (Courant)
+- Anglais (Intermédiaire)
+- Portugais (Notions)
