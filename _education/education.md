@@ -14,8 +14,6 @@ Brest, France
 - Intégration électronique – de l’algorithme au prototype  
 - Dispositifs médicaux connectés  
 
----
-
 ## Licence en ingénierie électronique  
 **Université Technologique de Pereira**  
 *Février 2019 – Décembre 2023*  
@@ -25,4 +23,13 @@ Pereira, Colombie
 - Microcontrôleurs  
 - FPGA  
 - Traitement numérique du signal  
-- Électronique analogique et numérique 
+- Électronique analogique et numérique
+
+## Licence en ingénierie électronique
+
+<table style="width: 100%;"><tr>
+<td><strong>Université Technologique de Pereira</strong></td>
+<td style="text-align: right;"><em>Février 2019 – Décembre 2023</em></td>
+</tr></table>
+
+Pereira, Colombie
