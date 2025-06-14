@@ -7,6 +7,6 @@ permalink: /certifications/
 
 ### Hardware Description Languages for FPGA Design  
 University of Colorado Boulder - Mai 2025  
-Compétences : VHDL, Verilog, SystemVerilog, Conception FPGA, ModelSim.
+Compétences : VHDL, Verilog, SystemVerilog, Conception FPGA, ModelSim.  
 Certificat : [Voir le certificat](https://www.coursera.org/account/accomplishments/certificate/AA82QSO4FL67)
 
