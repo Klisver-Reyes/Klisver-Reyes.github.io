@@ -9,11 +9,11 @@ permalink: /volunteering/
 **Description :** Distribution de biens essentiels et de repas aux personnes dans le besoin.  
 **Lieu :** Brest, France  
 **Date :** Février 2025 – Avril 2025
-**site web :** [Coup de pouce](https://coup-de-pouce-03.webselfsite.net/accueil)
+**Site web :** [Coup de pouce](https://coup-de-pouce-03.webselfsite.net/accueil)
 
 ## Majorettes Nouvelle Génération  
 **Description :** Contribution à la réussite de l’organisation d’un événement sportif.  
 **Lieu :** Brest, France  
-**Date :** Mai 2025  
-**site web :** [Majorettes Nouvelle Génération](https://www.facebook.com/mngbrest29/)
+**Date :** Mai 2025
+**Site web :** [Majorettes Nouvelle Génération](https://www.facebook.com/mngbrest29/)
  
