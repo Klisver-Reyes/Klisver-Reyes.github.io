@@ -52,3 +52,18 @@ Pereira, Colombie
 </tr></table>
 
 Pereira, Colombie
+
+
+<div style="width: 100%; max-width: 600px; margin: 0 auto; font-family: sans-serif;">
+  <div style="font-weight: bold; margin-bottom: 8px;">Diplôme d’ingénieur généraliste</div>
+
+  <div style="display: flex; justify-content: space-between;">
+    <div>IMT Atlantique, grande école d’ingénieurs.</div>
+    <div style="text-align: right;">Septembre 2024 - Août 2026</div>
+  </div>
+
+  <div style="display: flex; justify-content: space-between; margin-top: 4px;">
+    <div>Brest, France</div>
+    <div></div> <!-- Espacio vacío para alinear la fecha a la derecha en la fila superior -->
+  </div>
+</div>
