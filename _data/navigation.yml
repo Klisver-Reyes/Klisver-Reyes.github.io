@@ -9,7 +9,7 @@
 
 main:
   - title: "Experience"
-    url: /Experience/
+    url: /experience/
   
   - title: "Publications"
     url: /publications/
