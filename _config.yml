@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Klisver's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -294,7 +294,34 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+  # _skills
+  - scope:
+      path: ""
+      type: skills
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+  # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: false
       comments: true
 
 
