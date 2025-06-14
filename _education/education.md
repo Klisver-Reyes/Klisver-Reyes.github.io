@@ -7,7 +7,7 @@ permalink: /education/
 
 
 <div style="display: flex; justify-content: space-between;">
-  <div>Diplôme d’ingénieur généraliste</div>
+  <div><strong>Diplôme d’ingénieur généraliste</strong></div>
   <div>Septembre 2024 - Août 2026</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
@@ -19,7 +19,7 @@ permalink: /education/
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 16px;">
-  <div>Licence en ingénierie électronique</div>
+  <div><strong>Licence en ingénierie électronique</strong></div>
   <div>Février 2019 – Décembre 2023</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
@@ -29,4 +29,5 @@ permalink: /education/
 <div style="margin-top: 8px;">
   Cours suivis : Microcontrôleurs, FPGA, traitement numérique du signal, électronique analogique et numérique.
 </div>
+
 
