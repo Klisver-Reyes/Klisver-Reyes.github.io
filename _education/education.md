@@ -5,12 +5,24 @@ type: education
 permalink: /education/
 ---
 
-# Education
+## Diplôme d’ingénieur généraliste  
+**IMT Atlantique, grande école d’ingénieurs**  
+*Septembre 2024 – Août 2026*  
+Brest, France  
 
-## Degree Name - Institution Name
-**Dates:** 2018 - 2022  
-**Description:** Details about the degree, major, thesis, or relevant courses.
+**Cours suivis :**  
+- Intégration électronique – de l’algorithme au prototype  
+- Dispositifs médicaux connectés  
 
-## Another Degree or Certification
-**Dates:** 2016 - 2018  
-**Description:** Brief info about this education period.
+---
+
+## Licence en ingénierie électronique  
+**Université Technologique de Pereira**  
+*Février 2019 – Décembre 2023*  
+Pereira, Colombie  
+
+**Cours suivis :**  
+- Microcontrôleurs  
+- FPGA  
+- Traitement numérique du signal  
+- Électronique analogique et numérique 
