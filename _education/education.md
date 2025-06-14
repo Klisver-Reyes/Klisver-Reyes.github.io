@@ -120,3 +120,25 @@ permalink: /education/
     <div style="font-style: italic;">Université Technologique de Pereira</div>
     <div>Pereira, Colombie</div>
   </div>
+
+--
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-style: italic;">Diplôme d’ingénieur généraliste</div>
+  <div style="font-weight: bold;">Septembre 2024 - Août 2026</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-style: italic;">IMT Atlantique, grande école d’ingénieurs.</div>
+  <div>Brest, France</div>
+</div>
+<div style="margin-top: 8px;">
+  Cours suivis : Intégration électronique – de l’algorithme au prototype, dispositifs médicaux connectés.
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 16px;">
+  <div style="font-style: italic;">Licence en ingénierie électronique</div>
+  <div style="font-weight: bold;">Février 2019 – Décembre 2023</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <div style="font-style: italic;">Université Technologique de Pereira</div>
+  <div>Pereira, Colombie</div>
+</div>
