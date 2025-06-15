@@ -5,7 +5,6 @@ type: education
 permalink: /education/
 ---
 
-
 <div style="display: flex; justify-content: space-between;">
   <div><strong>Diplôme d’ingénieur généraliste</strong></div>
   <div>Septembre 2024 - Août 2026</div>
@@ -29,11 +28,3 @@ permalink: /education/
 <div style="margin-top: 8px;">
    • Cours suivis : Microcontrôleurs, FPGA, traitement numérique du signal, électronique analogique et numérique.
 </div>
-
-
-
-  </div>
-
-</body>
-</html>
-
