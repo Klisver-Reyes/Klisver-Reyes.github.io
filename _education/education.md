@@ -61,3 +61,30 @@ permalink: /education/
 - Traitement numérique du signal  
 - Électronique analogique  
 - Électronique numérique
+
+# 🏠 Education
+<img src="images/../../images/logos/CUHK1.png" alt="CUHK" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+* **The Chinese University of Hong Kong**            
+Ph.D. Student, 2025.8 ~ Present  
+Advisor: [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/)  
+
+<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: right; margin-right: 10px; ; width: 80px; height: 80px;" />
+* **South China University of Technology**            
+Undergraduate Student, 2021.9 ~ 2025.6  
+GPA: 3.89/4.0, Rank: 2/49, with the highest honor at SCUT
+
+
+# 🏠 Education
+
+<img src="images/../../images/logos/CUHK1.png" alt="CUHK" style="float: left; margin-right: 10px; width: 80px; height: 80px;" />
+* **The Chinese University of Hong Kong**            
+Ph.D. Student, 2025.8 ~ Present  
+Advisor: [Prof. Xunying Liu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-liu-xunying/)  
+
+<br clear="both" />
+
+<img src="images/../../images/logos/SCUT.png" alt="SCUT" style="float: left; margin-right: 10px; width: 80px; height: 80px;" />
+* **South China University of Technology**            
+Undergraduate Student, 2021.9 ~ 2025.6  
+GPA: 3.89/4.0, Rank: 2/49, with the highest honor at SCUT
+
