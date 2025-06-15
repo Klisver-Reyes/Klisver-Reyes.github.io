@@ -28,3 +28,36 @@ permalink: /education/
 <div style="margin-top: 8px;">
    • Cours suivis : Microcontrôleurs, FPGA, traitement numérique du signal, électronique analogique et numérique.
 </div>
+
+
+### Diplôme d’ingénieur généraliste  
+📅 Septembre 2024 - Août 2026  
+🏫 **IMT Atlantique**, grande école d’ingénieurs  
+📍 Brest, France  
+- Cours suivis : Intégration électronique – de l’algorithme au prototype, dispositifs médicaux connectés.
+
+### Licence en ingénierie électronique  
+📅 Février 2019 – Décembre 2023  
+🏫 **Université Technologique de Pereira**  
+📍 Pereira, Colombie  
+- Cours suivis : Microcontrôleurs, FPGA, traitement numérique du signal, électronique analogique et numérique.
+
+
+### Diplôme d’ingénieur généraliste  
+📅 Septembre 2024 - Août 2026  
+🏫 **IMT Atlantique**, grande école d’ingénieurs  
+📍 Brest, France  
+**Cours suivis :**
+- Intégration électronique – de l’algorithme au prototype  
+- Dispositifs médicaux connectés
+
+### Licence en ingénierie électronique  
+📅 Février 2019 – Décembre 2023  
+🏫 **Université Technologique de Pereira**  
+📍 Pereira, Colombie  
+**Cours suivis :**
+- Microcontrôleurs  
+- FPGA  
+- Traitement numérique du signal  
+- Électronique analogique  
+- Électronique numérique
