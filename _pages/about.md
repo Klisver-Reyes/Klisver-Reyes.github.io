@@ -11,7 +11,10 @@ Thanks for visiting my website!
 
 Paige's personal website
 ======
-informacion cbvncncmc
+
+
+N'hésitez pas à me contacter ou à vous connecter avec moi via [LinkedIn](https://www.linkedin.com/in/klisver-reyes-6340a1266/).
+
 
 For more info
 ------
