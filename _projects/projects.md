@@ -42,7 +42,7 @@ Février 2023 – Juin 2023
 
 **Outils utilisés :** FPGA Cyclone V SoC, carte DE1-SoC, SystemVerilog, logiciel Quartus Prime.
 
-### Conception et simualtion électronique 
+# Conception et simualtion électronique 
 
 ## Conception multicarte d’un module Ethernet-Wifi-Modbus dans Altium Designer  
 Université Technologique de Pereira, Pereira, Colombie  
