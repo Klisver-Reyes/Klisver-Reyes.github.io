@@ -4,14 +4,24 @@ permalink: /experience/
 author_profile: true
 ---
 
-Aquí puedes escribir tu experiencia profesional o académica.  
-Por ejemplo:
+### Stage : Conception d’une carte électronique pour un générateur thermoélectrique  
+**Irispace – Institut Régional de l’Innovation Spatiale, Brest, France**  
+**Mai 2025 – Août 2025**
 
-## Ingeniero de desarrollo - Empresa X  
-**Junio 2022 – Actualidad**  
-Trabajé en el desarrollo de sistemas embebidos para aplicaciones industriales...
+- Développement d’une carte électronique avec **Altium Designer**.  
+- Réalisation de tests et de mesures électroniques pour valider les performances du prototype.  
+- Programmation du microcontrôleur **ESP32**.  
+- Mise en œuvre du protocole de communication **I2C**.  
+- Réalisation de **tests unitaires** et d’intégration pour valider le firmware.  
+- Rédaction d’un **rapport technique détaillé** et présentation des résultats au client.
 
-## Monitor de física - Universidad Tecnológica de Pereira  
-**2021 – 2022**  
-Apoyé a estudiantes en prácticas de laboratorio en los cursos Física I y II...
+## Stage : Conception d’une carte électronique pour un générateur thermoélectrique  
+Irispace – Institut Régional de l’Innovation Spatiale, Brest, France**  
+Mai 2025 – Août 2025
 
+- Développement d’une carte électronique avec Altium Designer. 
+- Réalisation de tests et de mesures électroniques pour valider les performances du prototype.  
+- Programmation du microcontrôleur ESP32.  
+- Mise en œuvre du protocole de communication I2C.  
+- Réalisation de tests unitaires et d’intégration pour valider le firmware.  
+- Rédaction d’un rapport technique détaillé et présentation des résultats au client.
