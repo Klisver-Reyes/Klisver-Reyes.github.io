@@ -5,9 +5,9 @@ type: projects
 permalink: /projects/
 ---
 
-### FPGA 
+# FPGA 
 
-## Projet : Conception d’un circuit numérique pour le traitement du signal sur FPGA.
+## Conception d’un circuit numérique pour le traitement du signal sur FPGA.
 IMT Atlantique, Brest, France 
 Mars 2025
 
@@ -18,7 +18,7 @@ Mars 2025
 - Présentation et capitalisation des résultats sous forme orale et écrite.  
   Outils utilisés : FPGA Xilinx Artix 7, carte Nexys4, VHDL, logiciel Vivado.
 
-## Projet : Conception et implémentation matérielle d’un processeur dédié à la détection de contours  
+## Conception et implémentation matérielle d’un processeur dédié à la détection de contours  
 IMT Atlantique, Brest, France  
 Février 2025 
 
@@ -30,7 +30,7 @@ Février 2025
 - Présentation et capitalisation des résultats sous forme orale et écrite.      
   Outils utilisés : FPGA Xilinx Artix 7, carte Nexys4, VHDL, logiciel Vivado, écran VGA.
 
-## Projet : Conception et implémentation matérielle d’un processeur monocycle sur FPGA  
+## Conception et implémentation matérielle d’un processeur monocycle sur FPGA  
 Université Technologique de Pereira, Pereira, Colombie  
 Février 2023 – Juin 2023
 
@@ -44,7 +44,7 @@ Février 2023 – Juin 2023
 
 ### Conception et simualtion électronique 
 
-## Projet : Conception multicarte d’un module Ethernet-Wifi-Modbus dans Altium Designer  
+## Conception multicarte d’un module Ethernet-Wifi-Modbus dans Altium Designer  
 Université Technologique de Pereira, Pereira, Colombie  
 Juillet 2023 – Septembre 2023
 
@@ -55,7 +55,7 @@ Juillet 2023 – Septembre 2023
 - Rédaction et soutenance du rapport sur le développement des cartes.  
 - Création de fichiers Gerber pour la fabrication des cartes.
 
-## Projet : Conception d'une carte électronique pour un dispositif mesurant la température et l'humidité  
+## Conception d'une carte électronique pour un dispositif mesurant la température et l'humidité  
 Titoma – Université Technologique de Pereira, Pereira, Colombie  
 Octobre 2023 – Décembre 2023
 
@@ -66,7 +66,7 @@ Octobre 2023 – Décembre 2023
 - Suivi de la fabrication et de l'impression de la carte.  
 - Rédaction et soutenance du rapport sur le développement du projet.
 
-## Projet : Conception et simulation d'un amplificateur différentiel de charge active en Cadence Virtuoso  
+## Conception et simulation d'un amplificateur différentiel de charge active en Cadence Virtuoso  
 IMT Atlantique, Plouzané, France  
 Février 2025 – Mars 2025
 
