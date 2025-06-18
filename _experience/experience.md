@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Stage : Conception, développement et test d’une carte de prototypage.  
-Irispace – Institut Régional de l’Innovation Spatiale, Brest, France.
+Irispace – Institut Régional de l’Innovation Spatiale, Brest, France.  
 Mai 2025 – Août 2025
 
 - Développement d’une carte électronique avec Altium Designer. 
