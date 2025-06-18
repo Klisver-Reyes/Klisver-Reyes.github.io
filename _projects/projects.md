@@ -8,7 +8,7 @@ permalink: /projects/
 # FPGA   
 
 ## Conception d’un circuit numérique pour le traitement du signal sur FPGA.
-IMT Atlantique: Brest, France.    
+IMT Atlantique : Brest, France.    
 Mars 2025
 
 - Conception de l’architecture du circuit numérique sous forme de modules organisés hiérarchiquement.
@@ -19,7 +19,7 @@ Mars 2025
   Outils utilisés : FPGA Xilinx Artix 7, carte Nexys4, VHDL, logiciel Vivado.
 
 ## Conception et implémentation matérielle d’un processeur dédié à la détection de contours  
-IMT Atlantique: Brest, France.    
+IMT Atlantique : Brest, France.    
 Février 2025 
 
 - Élaboration d’une solution d’intégration matérielle adaptée à un cahier des charges.
@@ -66,7 +66,7 @@ Octobre 2023 – Décembre 2023
 - Rédaction et soutenance du rapport sur le développement du projet.
 
 ## Conception et simulation d'un amplificateur différentiel de charge active en Cadence Virtuoso  
-IMT Atlantique: Brest, France.    
+IMT Atlantique : Brest, France.    
 Février 2025 – Mars 2025
 
 - Conception du circuit à partir d'un cahier des charges.  
