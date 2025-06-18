@@ -15,4 +15,5 @@ Brest, France
 Université Technologique de Pereira  
 Février 2019 – Décembre 2023
 Pereira, Colombie
-- Cours suivis : Microcontrôleurs, FPGA, traitement numérique du signal, électronique analogique et numérique.
+- Cours suivis : Conception FPGA, électronique analogique et numérique, programmation C/C++, développement firmware,
+ microcontrôleurs, conception de cartes électroniques, traitement du signal.
