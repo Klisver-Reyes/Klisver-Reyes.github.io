@@ -30,18 +30,31 @@ permalink: /education/
 </div>
 
 
-### Diplôme d’ingénieur généraliste  
-**Septembre 2024 - Août 2026**  
+### Diplôme d’ingénieur généraliste 
+---
+Septembre 2024 - Août 2026  
 IMT Atlantique, grande école d’ingénieurs  
 Brest, France  
 
 - Cours suivis : Intégration électronique – de l’algorithme au prototype, dispositifs médicaux connectés.
 
+### Licence en ingénierie électronique
 ---
+Février 2019 – Décembre 2023
+Université Technologique de Pereira    
+Pereira, Colombie  
 
-### Licence en ingénierie électronique  
-**Février 2019 – Décembre 2023**  
-Université Technologique de Pereira  
+
+### Diplôme d’ingénieur généraliste 
+Septembre 2024 - Août 2026  
+IMT Atlantique, grande école d’ingénieurs  
+Brest, France  
+
+- Cours suivis : Intégration électronique – de l’algorithme au prototype, dispositifs médicaux connectés.
+
+### Licence en ingénierie électronique
+Février 2019 – Décembre 2023
+Université Technologique de Pereira    
 Pereira, Colombie  
 
 - Cours suivis : Microcontrôleurs, FPGA, traitement numérique du signal, électronique analogique et numérique.
