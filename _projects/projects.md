@@ -8,7 +8,7 @@ permalink: /projects/
 # FPGA   
 
 ## Conception d’un circuit numérique pour le traitement du signal sur FPGA.
-IMT Atlantique,     
+IMT Atlantique: Brest, France.    
 Mars 2025
 
 - Conception de l’architecture du circuit numérique sous forme de modules organisés hiérarchiquement.
@@ -19,7 +19,7 @@ Mars 2025
   Outils utilisés : FPGA Xilinx Artix 7, carte Nexys4, VHDL, logiciel Vivado.
 
 ## Conception et implémentation matérielle d’un processeur dédié à la détection de contours  
-IMT Atlantique,       
+IMT Atlantique: Brest, France.    
 Février 2025 
 
 - Élaboration d’une solution d’intégration matérielle adaptée à un cahier des charges.
@@ -29,7 +29,7 @@ Février 2025
   Outils utilisés : FPGA Xilinx Artix 7, carte Nexys4, VHDL, logiciel Vivado, écran VGA.
 
 ## Conception et implémentation matérielle d’un processeur monocycle sur FPGA  
-Université Technologique de Pereira,     
+Université Technologique de Pereira : Pereira, Colombie        
 Février 2023 – Juin 2023  
 
 - Conception de l'architecture du processeur sous forme de modules interconnectés.  
@@ -43,9 +43,9 @@ Février 2023 – Juin 2023
 # Conception et simualtion électronique 
 
 ## Conception multicarte d’un module Ethernet-Wifi-Modbus dans Altium Designer  
-Université Technologique de Pereira, 
-Juillet 2023 – Septembre 2023,  
-Pereira, Colombie    
+Université Technologique de Pereira : Pereira, Colombie  
+Juillet 2023 – Septembre 2023  
+    
 
 - Lecture et compréhension de schémas électroniques pour le développement des cartes.  
 - Mise en œuvre d'une conception modulaire hiérarchique.  
@@ -55,8 +55,8 @@ Pereira, Colombie
 - Création de fichiers Gerber pour la fabrication des cartes.
 
 ## Conception d'une carte électronique pour un dispositif mesurant la température et l'humidité  
-Titoma – Université Technologique de Pereira, Pereira, Colombie  
-Octobre 2023 – Décembre 2023
+Titoma – Université Technologique de Pereira : Pereira, Colombie   
+Octobre 2023 – Décembre 2023  
 
 - Développement et routage d’un circuit imprimé sur Altium Designer.  
 - Conception d’une carte de 2 couches, basée sur un fichier DXF fourni par l'équipe Titoma.  
@@ -66,7 +66,7 @@ Octobre 2023 – Décembre 2023
 - Rédaction et soutenance du rapport sur le développement du projet.
 
 ## Conception et simulation d'un amplificateur différentiel de charge active en Cadence Virtuoso  
-IMT Atlantique, Plouzané, France  
+IMT Atlantique: Brest, France.    
 Février 2025 – Mars 2025
 
 - Conception du circuit à partir d'un cahier des charges.  
