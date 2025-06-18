@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-#About me
+# About Me
 
 J’ai étudié le génie électronique à la Faculté de Génie Électrique, Électronique et Informatique de l’Université Technologique de Pereira, en Colombie. Pendant ma licence, j’ai travaillé comme assistant d’enseignement dans les laboratoires d’instrumentation, de télécommunications, de physique I et de physique II. J’ai également fait partie du groupe de recherche en électronique de puissance, où j’ai développé un projet intitulé « Conception de bobines circulaires et carrées pour le transfert d’énergie sans fil dans un système de recharge de véhicule électrique ».
 
