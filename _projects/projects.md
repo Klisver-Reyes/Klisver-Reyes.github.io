@@ -3,8 +3,7 @@ title: "Projects"
 layout: single
 type: projects
 permalink: /projects/
----
-
+---  
 
 # FPGA   
 
