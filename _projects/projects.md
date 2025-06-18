@@ -15,19 +15,17 @@ Mars 2025
 - Description des modules à travers le langage de description matérielle VHDL.
 - Simulation et intégration des modules pour la réalisation du circuit complet.
 - Implémentation physique sur FPGA et vérification des performances.
-- Présentation et capitalisation des résultats sous forme orale et écrite.  
+- Présentation et capitalisation des résultats sous forme orale et écrite. 
   Outils utilisés : FPGA Xilinx Artix 7, carte Nexys4, VHDL, logiciel Vivado.
 
 ## Conception et implémentation matérielle d’un processeur dédié à la détection de contours  
 IMT Atlantique, Brest, France  
 Février 2025 
 
-- Conception de l'architecture du circuit numérique sous forme de modules organisés hiérarchiquement.  
-- Description des modules à travers le langage de description matérielle VHDL.  
-- Simulation et intégration des modules pour la réalisation du circuit complet.  
-- Synthèse du circuit en composants logiques, suivie d'une simulation pour la vérification de la cohérence avec le modèle initial.  
-- Implémentation physique sur FPGA et validation des performances.  
-- Présentation et capitalisation des résultats sous forme orale et écrite.      
+- Élaboration d’une solution d’intégration matérielle adaptée à un cahier des charges.
+- Conception d’une architecture de circuit en cohérence avec les contraintes.
+- Description du circuit en langage de description matérielle VHDL.
+- Prototypage du circuit électronique sur FPGA.      
   Outils utilisés : FPGA Xilinx Artix 7, carte Nexys4, VHDL, logiciel Vivado, écran VGA.
 
 ## Conception et implémentation matérielle d’un processeur monocycle sur FPGA  
