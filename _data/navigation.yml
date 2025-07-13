@@ -26,8 +26,8 @@ main:
   - title: "Volunteering"
     url: /volunteering/ 
     
-  - title: "CV"
-    url: /files/CV_Klisver_REYES.pdf
+  #- title: "CV"
+  #  url: /files/CV_Klisver_REYES.pdf
     #url: /cv/
   
   #- title: "Publications"
