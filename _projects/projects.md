@@ -18,6 +18,18 @@ Mars 2025
 - Présentation et capitalisation des résultats sous forme orale et écrite. 
   Outils utilisés : FPGA Xilinx Artix 7, carte Nexys4, VHDL, logiciel Vivado.
 
+<div style="display: flex; gap: 10px;">
+  <a href="../images/projects_fpga/projec_1/Architecture_diagram.png" data-lightbox="fpga-project" data-title="Diagramme d'architecture">
+    <img src="../images/projects_fpga/projec_1/Architecture_diagram.png" alt="Diagramme d'architecture" width="150">
+  </a>
+  <a href="../images/projects_fpga/projec_1/FSM.png" data-lightbox="fpga-project" data-title="FSM">
+    <img src="../images/projects_fpga/projec_1/FSM.png" alt="FSM" width="150">
+  </a>
+  <a href="../images/projects_fpga/projec_1/Operative_unit.png" data-lightbox="fpga-project" data-title="Unité opérationnelle">
+    <img src="../images/projects_fpga/projec_1/Operative_unit.png" alt="Unité opérationnelle" width="150">
+  </a>
+</div>
+
 ## Conception et implémentation matérielle d’un processeur dédié à la détection de contours  
 IMT Atlantique : Brest, France.    
 Février 2025 
